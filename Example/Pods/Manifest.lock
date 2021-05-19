@@ -1,0 +1,16 @@
+PODS:
+  - PraiseAnimateSwift (0.1.0)
+
+DEPENDENCIES:
+  - PraiseAnimateSwift (from `../`)
+
+EXTERNAL SOURCES:
+  PraiseAnimateSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PraiseAnimateSwift: 10150f1b6865e60cfe55b754f6ae35268afda4ba
+
+PODFILE CHECKSUM: 560203b2a722fa8cad4c296fd095ebb04059fea3
+
+COCOAPODS: 1.10.0.rc.1

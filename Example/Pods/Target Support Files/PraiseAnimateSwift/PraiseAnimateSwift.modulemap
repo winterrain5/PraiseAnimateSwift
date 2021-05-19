@@ -1,0 +1,6 @@
+framework module PraiseAnimateSwift {
+  umbrella header "PraiseAnimateSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
